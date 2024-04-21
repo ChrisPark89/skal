@@ -1,3 +1,1 @@
-# skal
-A chat app using Django REST Framework
-Fuck you Chris
+A project to practice Express.js and Node.js
